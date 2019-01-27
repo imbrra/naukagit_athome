@@ -34,7 +34,6 @@ l.p | uczen
 ~~THE END~~ :books: :100:
 
 ![Hulatocat](/octodex.github.com/hulatocat)
-Format: ![Alt Text](url)
 
 
 
