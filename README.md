@@ -33,5 +33,8 @@ l.p | uczen
 
 ~~THE END~~ :books: :100:
 
-![Dancing Queen](https://octodex.github.com/hulatocat)
+![Dancing Queen](/octodex.github.com/hulatocat)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
