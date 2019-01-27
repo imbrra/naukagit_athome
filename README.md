@@ -2,7 +2,7 @@
 **bald**
 *italic*
 
-[link do wiochy](http://wiocha.pl)
+[link do wiochy!](http://wiocha.pl)
 
 
 # to jest najwiekszy naglowek <h1>
