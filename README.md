@@ -14,3 +14,11 @@
 Forrest Gump powiedzial:
 > Zycie to pudelko pelne czekoladek.
 > Nigdy nie wiesz na co trafisz.
+
+
+Task list:
+[x] gitHub
+[x] istqb
+[x] Jira
+[ ] Robot Framewor
+ 
