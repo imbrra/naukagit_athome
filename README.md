@@ -1,6 +1,10 @@
 [link to Google!](http://google.com)
 **bald**
 *italic*
-* to jest najwiekszy naglowek <h1> tag
-** to jest troche mniejszy naglowek <h2> tag
-***** to jest supe maly naglowek <h5> tag
+
+[link do wiochy](http://wiocha.pl)
+
+
+# to jest najwiekszy naglowek <h1>
+## to jest troche mniejszy naglowek <h2>
+##### to jest supe maly naglowek <h5>
