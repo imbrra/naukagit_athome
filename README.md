@@ -17,8 +17,7 @@ Forrest Gump powiedzial:
 
 
 Task list:
-[x] gitHub
-[x] istqb
-[x] Jira
-[ ] Robot Framewor
- 
+- [x] gitHub
+- [x] istqb
+- [x] Jira
+- [ ] Robot Framewor
