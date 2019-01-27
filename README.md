@@ -1,5 +1,4 @@
-[link to Google!]
-(http://google.com)
+[link to Google!](http://google.com)
 
 
 **bald**
@@ -10,4 +9,8 @@
 
 # to jest najwiekszy naglowek <h1>
 ## to jest troche mniejszy naglowek <h2>
-##### to jest supe maly naglowek <h5>
+#### to jest supe maly naglowek <h5>
+
+Forrest Gump powiedzial:
+> Zycie to pudelko pelne czekoladek.
+> Nigdy nie wiesz na co trafisz.
